@@ -3,7 +3,7 @@ jQuery(function($){
     $('#simple-timer').syotimer({
         year: 2017,
         month: 11,
-        day: 01,
+        day: 25,
         hour: 20,
         minute: 30
     });
